@@ -8,6 +8,8 @@
 
 ![Vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusvl&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvl&theme=dracula&layout=compact)
+
 ## Linguagens que mais utilizo
 
 <div style="display: inline_block"><br/>
@@ -15,6 +17,7 @@
     <img align="center" alt="Python" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img align="center" alt="Python" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <div>
+  
 
 ### Entre em contato comigo: 
 #### 💬 viniciusvictor443@gmail.com
